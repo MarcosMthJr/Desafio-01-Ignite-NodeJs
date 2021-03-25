@@ -46,6 +46,7 @@ All your files and folders are presented as a tree in the file explorer. You can
  - [x] Não deve ser possível deletar uma tarefa que não existe.
 
 ## Rotas
+**Url base:** http://localhost:3333
  - **Post - /users**
 Realizar o cadastro de usuários.
 **Instruções:**
